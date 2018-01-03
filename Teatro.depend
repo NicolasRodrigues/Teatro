@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1487944284 source:d:\estrutura de dados\teatro\main.cpp
+	<iostream>
+	"contador.h"
+	"teatro.h"
+
+1486729760 d:\estrutura de dados\teatro\contador.h
+
+1487944630 d:\estrutura de dados\teatro\teatro.h
+
